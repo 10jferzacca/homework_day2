@@ -8,3 +8,14 @@
 
 5) git push >> git commit -m "message"
 
+Second Set
+
+1) git reset HEAD <file>
+
+2) git checkout -- <file>
+
+3) It lets it know we are reversing just the changes made (??)
+
+4)They weren't accurate or not needed
+
+
